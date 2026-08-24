@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Maha Raktadan Shibir",
+    "year": "2023",
+    "location": "Pune",
+    "image": "https://placehold.co/800x800/23272a/fff?text=Blood+Donation",
+    "description": "A massive blood donation drive organized in collaboration with local hospitals. Our belief is that the energy we display during performances should also translate into saving lives.",
+    "impact": "Over 500+ units of blood collected in a single day."
+  },
+  {
+    "id": "2",
+    "title": "Vruksharopan (Tree Plantation)",
+    "year": "2022",
+    "location": "Sahyadri Ranges",
+    "image": "https://placehold.co/800x800/23272a/fff?text=Tree+Plantation",
+    "description": "An ongoing environmental initiative where members of the Pathak hike into the nearby hills to plant native tree species, ensuring the green legacy of Maharashtra is preserved.",
+    "impact": "Planted and maintained over 2,000 indigenous saplings."
+  },
+  {
+    "id": "3",
+    "title": "Educational Support Drive",
+    "year": "2024",
+    "location": "Rural Maharashtra",
+    "description": "Providing essential school supplies, books, and uniforms to underprivileged children in remote villages, empowering the next generation through education.",
+    "image": "https://placehold.co/800x800/23272a/fff?text=Education+Drive",
+    "impact": "Supported 300+ students across 5 rural schools."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Ganeshotsav Grand Finale",
+    "category": "Festival",
+    "year": "2023",
+    "location": "Pune City",
+    "description": "An electrifying performance during the Visarjan Miravnuk. Over 200 vadaks playing in perfect synchronization, creating a wall of sound that resonated through the heart of Pune.",
+    "thumbnail": "https://placehold.co/800x600/23272a/fff?text=Ganeshotsav",
+    "videoId": "/videos/ganpati.mp4"
+  },
+  {
+    "id": "2",
+    "title": "Shiv Jayanti Celebrations",
+    "category": "Historical",
+    "year": "2024",
+    "location": "Shivneri Fort",
+    "description": "A powerful tribute to Chhatrapati Shivaji Maharaj. The beats of the dhol echoed through the historic valleys, accompanied by traditional martial arts (Mardani Khel) displays.",
+    "thumbnail": "https://placehold.co/800x600/23272a/fff?text=Shiv+Jayanti",
+    "videoId": "/videos/shiv-jayanti.mp4"
+  },
+  {
+    "id": "3",
+    "title": "3 Thoka Signature Rhythm",
+    "category": "Special Event",
+    "year": "2022",
+    "location": "Pune",
+    "description": "The quintessential 3 thoka rhythm that defines our unique style. A flawless execution of power, precision, and passion.",
+    "thumbnail": "https://placehold.co/800x600/23272a/fff?text=3+Thoka",
+    "videoId": "/videos/3-thoka.mp4"
+  }
+]

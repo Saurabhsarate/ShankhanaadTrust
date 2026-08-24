@@ -1,0 +1,186 @@
+{
+  "nav": {
+    "about": "About",
+    "performances": "Performances",
+    "impact": "Impact",
+    "media": "Media",
+    "contact": "Connect With Us",
+    "langSwitch": "मराठी"
+  },
+  "home": {
+    "title": "Shankhanaad Trust",
+    "subtitle": "The Pulse of Tradition. The Roar of Devotion.",
+    "ctaDiscover": "Discover Our Journey",
+    "ctaConnect": "Connect With Us",
+    "whoWeAre": {
+      "title": "Who We Are",
+      "text": "Shankhanaad Trust is more than just a traditional Dhol-Tasha Pathak; it is a profound cultural movement dedicated to preserving, celebrating, and amplifying the incredible percussive heritage of Maharashtra. Born from a deep-rooted passion for our history, we unite hundreds of dedicated musicians who channel their devotion through every beat. Our thunderous rhythms and meticulously disciplined artistry bring the true spirit of traditional celebrations to life, echoing the bravery and spirituality of our ancestors.",
+      "readStory": "Read Our Story"
+    },
+    "featured": {
+      "title": "The Sound That Moves Thousands",
+      "subtitle": "Experience the relentless energy and flawless synchronization of our performances",
+      "viewAll": "View All Performances"
+    },
+    "ctaSection": {
+      "title": "The Sound Continues.",
+      "subtitle": "Be a part of our ever-growing family. Experience the cultural heartbeat of Maharashtra.",
+      "watchJourney": "Watch Our Journey"
+    }
+  },
+  "stats": {
+    "legacy": "Years of Legacy",
+    "vadaks": "Active Vadaks",
+    "performances": "Major Performances",
+    "hearts": "Hearts Won"
+  },
+  "about": {
+    "heroTitle": "Our Story",
+    "heroSubtitle": "The journey, the culture, the people.",
+    "journey": {
+      "title": "Our Journey",
+      "subtitle": "From a small passionate group to a monumental cultural movement",
+      "timeline": [
+        {
+          "year": "2013",
+          "title": "The First Beat",
+          "desc": "A small group of passionate youth came together with a handful of dhols, united purely by their profound devotion and unwavering love for our traditional rhythms."
+        },
+        {
+          "year": "2016",
+          "title": "A Cultural Force",
+          "desc": "We rapidly expanded to over 200 active members, performing at prestigious Ganesh Mandals across Pune and establishing our unique, highly disciplined playing style."
+        },
+        {
+          "year": "2019",
+          "title": "Beyond Boundaries",
+          "desc": "Represented the vibrant, untamed culture of Maharashtra on massive national platforms, earning nationwide recognition for our intensely synchronized and energetic performances."
+        },
+        {
+          "year": "2023",
+          "title": "A Decade of Devotion",
+          "desc": "Celebrated our landmark 10th anniversary with a breathtaking grand performance, simultaneously launching major social initiatives to give back to the community that built us."
+        }
+      ]
+    },
+    "culture": {
+      "title": "Our Culture",
+      "subtitle": "The foundational elements that define our signature sound",
+      "items": [
+        {
+          "name": "Discipline (Shista)",
+          "desc": "Discipline is the absolute foundation of our Pathak. Every single beat, every formation, and every movement is a testament to rigorous, uncompromising practice and deep mutual respect."
+        },
+        {
+          "name": "Devotion (Bhakti)",
+          "desc": "We don't merely play instruments; we perform as a spiritual offering to the divine. Our boundless energy stems directly from a deep-rooted spiritual and cultural devotion."
+        },
+        {
+          "name": "Brotherhood (Bhaichara)",
+          "desc": "Shankhanaad is, above all, a family. We stand shoulder to shoulder, support one another through all phases of life, and grow together as a massive, unified force."
+        }
+      ]
+    },
+    "people": {
+      "title": "The People Behind the Sound",
+      "subtitle": "Our dedicated leadership and mentors",
+      "items": [
+        {
+          "name": "Ajit Tupe",
+          "role": "Founder",
+          "desc": "The passionate enthusiast who laid the unshakable foundation of Shankhanaad with a grand vision to preserve and elevate our traditional art forms."
+        },
+        {
+          "name": "Dhol Pramukh",
+          "role": "Dhol Leaders",
+          "desc": "Highly experienced and dedicated musicians who expertly lead the bass sections, ensuring every single beat resonates with absolute perfection and overwhelming power."
+        },
+        {
+          "name": "Tasha Pramukh",
+          "role": "Tasha Mentors",
+          "desc": "The incredibly vibrant core of our musical presentation, responsible for teaching the intricate, lightning-fast rhythms and guiding our explosive energetic variations."
+        }
+      ]
+    }
+  },
+  "performances": {
+    "heroTitle": "Our Performances",
+    "heroSubtitle": "The Sound That Moves Thousands",
+    "filterAll": "All",
+    "items": [
+      {
+        "title": "Ganeshotsav Grand Finale",
+        "category": "Festival",
+        "year": "2023",
+        "location": "Pune City",
+        "desc": "An absolutely electrifying performance during the grand Visarjan Miravnuk. Over 200 vadaks playing in immaculate synchronization, creating a massive wall of sound that resonated through the very heart of Pune."
+      },
+      {
+        "title": "Shiv Jayanti Celebrations",
+        "category": "Historical",
+        "year": "2024",
+        "location": "Shivneri Fort",
+        "desc": "A breathtakingly powerful tribute to the legendary Chhatrapati Shivaji Maharaj. The thunderous beats of the dhol echoed endlessly through the historic valleys, accompanied by stunning displays of traditional martial arts (Mardani Khel)."
+      },
+      {
+        "title": "3 Thoka Signature Rhythm",
+        "category": "Special Event",
+        "year": "2022",
+        "location": "Pune",
+        "desc": "The quintessential and iconic 3 thoka rhythm that perfectly defines our unique, aggressive playing style. A flawless, mesmerizing execution of pure power, immaculate precision, and raw passion."
+      }
+    ]
+  },
+  "contact": {
+    "heroTitle": "Connect With Us",
+    "heroSubtitle": "Be a vital part of our growing community",
+    "getInTouch": {
+      "title": "Get in Touch",
+      "desc": "Whether you want to invite us for a grand performance, join our energetic pathak as a vadak, or support our noble social initiatives, we would absolutely love to hear from you."
+    },
+    "info": {
+      "call": "Call Us",
+      "email": "Email",
+      "location": "Location",
+      "address": "Pune, Maharashtra, India"
+    },
+    "social": {
+      "title": "Follow Our Journey"
+    },
+    "form": {
+      "name": "Name",
+      "namePh": "Your Name",
+      "phone": "Phone",
+      "phonePh": "Your Phone Number",
+      "email": "Email",
+      "emailPh": "Your Email",
+      "subject": "Subject",
+      "subjSelect": "Select an option",
+      "subjPerf": "Performance Inquiry",
+      "subjJoin": "Join the Pathak",
+      "subjSupport": "Support/Sponsor",
+      "subjOther": "Other",
+      "message": "Message",
+      "messagePh": "How can we help you?",
+      "submit": "Send Message"
+    },
+    "map": {
+      "text": "Our primary practice grounds and administrative office are proudly located in the historic heart of Pune.",
+      "btn": "View Practice Ground on Map"
+    }
+  },
+  "footer": {
+    "about": "A dedicated cultural organization and Dhol-Tasha Pathak, committed to preserving and presenting the vibrant percussive traditions of Maharashtra to the world.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "media": {
+    "heroTitle": "Digital Archive",
+    "heroSubtitle": "Preserving our cultural legacy",
+    "galleryTitle": "Gallery",
+    "gallerySubtitle": "Moments captured in time",
+    "pressTitle": "Shankhanaad in the Media",
+    "pressDesc": "Our performances have caught the attention of leading newspapers, cultural magazines, and digital platforms. From featuring in local news segments during Ganeshotsav to being recognized for our social initiatives, the resonance of Shankhanaad extends far beyond the streets."
+  }
+}

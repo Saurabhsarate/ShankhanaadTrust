@@ -1,0 +1,80 @@
+{
+  "name": "Shankhanaad Trust",
+  "tagline": "The Pulse of Tradition. The Roar of Devotion.",
+  "about": {
+    "short": "Shankhanaad Trust is more than a Dhol-Tasha Pathak; it is a cultural movement dedicated to preserving and amplifying the percussive heritage of Maharashtra. Through thunderous rhythms and disciplined artistry, we bring the spirit of celebration to life.",
+    "long": "Founded with a vision to unite youth through the rich cultural fabric of Maharashtra, Shankhanaad Trust has grown into one of the most respected Dhol-Tasha Pathaks. Our journey is defined by passion, discipline, and an unwavering commitment to our roots. Beyond the performances, we are a family that believes in social responsibility, organizing blood donation camps, environmental drives, and youth empowerment initiatives."
+  },
+  "contact": {
+    "email": "namaskar@shankhanaadtrust.org, shankhanaadtrust@gmail.com",
+    "phone": "8308855002, 7776911143",
+    "address": "Pune, Maharashtra, India",
+    "instagram": "https://www.instagram.com/shankhanaad_trust?igsi=MThsdTVqaWFsNWFxdw==",
+    "youtube": "https://youtube.com/@shankhanaad_trust?si=afFPGmudQjXqWupI"
+  },
+  "stats": [
+    { "value": "10+", "label": "Years of Legacy" },
+    { "value": "500+", "label": "Active Vadaks (Performers)" },
+    { "value": "200+", "label": "Major Performances" },
+    { "value": "1M+", "label": "Hearts Won" }
+  ],
+  "timeline": [
+    {
+      "year": "2013",
+      "title": "The First Beat",
+      "description": "A small group of passionate youth came together with a few dhols, united by their devotion and love for traditional rhythms."
+    },
+    {
+      "year": "2016",
+      "title": "A Cultural Force",
+      "description": "Expanded to over 200 members, performing at prestigious Ganesh Mandals across Pune and establishing a unique, disciplined playing style."
+    },
+    {
+      "year": "2019",
+      "title": "Beyond Maharashtra",
+      "description": "Represented the vibrant culture of Maharashtra on national platforms, earning recognition for synchronized, energetic performances."
+    },
+    {
+      "year": "2023",
+      "title": "Decade of Devotion",
+      "description": "Celebrated our 10th anniversary with a grand performance, launching major social initiatives to give back to the community."
+    }
+  ],
+  "culture": [
+    {
+      "name": "Discipline (Shista)",
+      "description": "The foundation of our Pathak. Every beat, every formation is a testament to rigorous practice and mutual respect.",
+      "image": "/images/culture/discipline.jpeg"
+    },
+    {
+      "name": "Devotion (Bhakti)",
+      "description": "We don't just play instruments; we perform as an offering. Our energy stems from a deep-rooted spiritual and cultural devotion.",
+      "image": "/images/culture/devotion.jpeg"
+    },
+    {
+      "name": "Brotherhood (Bhaichara)",
+      "description": "Shankhanaad is a family. We stand together, support one another, and grow as a unified force.",
+      "image": "/images/culture/brotherhood.jpeg"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ajit Tupe",
+      "role": "Founder",
+      "image": "/images/founder.jpeg",
+      "bio": "The enthusiast who laid the foundation of Shankhanaad with a vision to preserve traditional art."
+    },
+    {
+      "name": "Dhol Pramukh",
+      "role": "Dhol Leader",
+      "image": "/images/dhol-leader.jpeg",
+      "bio": "Experienced musicians who lead the sections, ensuring every beat resonates with perfection and power."
+    },
+    {
+      "name": "Tasha Pramukh",
+      "role": "Tasha Mentor",
+      "image": "/images/tasha-mentor.jpeg",
+      "bio": "The vibrant core of our musical presentation, teaching the intricate rhythms and energetic variations."
+    }
+  ]
+}
