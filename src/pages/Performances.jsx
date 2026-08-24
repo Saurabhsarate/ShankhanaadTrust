@@ -50,7 +50,8 @@ const Performances = () => {
               <div key={perf.id} className={`performance-card fade-up visible delay-${(index % 3 + 1) * 100}`}>
                 <div className="perf-image-wrapper">
                   <video 
-                    src={perf.videoId} 
+                    src={`${perf.videoId}#t=0.001`}
+                    poster={perf.thumbnail}
                     muted 
                     playsInline 
                     preload="metadata"

@@ -6,7 +6,7 @@
     "year": "2023",
     "location": "Pune City",
     "description": "An electrifying performance during the Visarjan Miravnuk. Over 200 vadaks playing in perfect synchronization, creating a wall of sound that resonated through the heart of Pune.",
-    "thumbnail": "https://placehold.co/800x600/23272a/fff?text=Ganeshotsav",
+    "thumbnail": "/images/gallery/gallery-10.jpeg",
     "videoId": "/videos/ganpati.mp4"
   },
   {
@@ -16,7 +16,7 @@
     "year": "2024",
     "location": "Shivneri Fort",
     "description": "A powerful tribute to Chhatrapati Shivaji Maharaj. The beats of the dhol echoed through the historic valleys, accompanied by traditional martial arts (Mardani Khel) displays.",
-    "thumbnail": "https://placehold.co/800x600/23272a/fff?text=Shiv+Jayanti",
+    "thumbnail": "/images/gallery/gallery-11.jpeg",
     "videoId": "/videos/shiv-jayanti.mp4"
   },
   {
@@ -26,7 +26,7 @@
     "year": "2022",
     "location": "Pune",
     "description": "The quintessential 3 thoka rhythm that defines our unique style. A flawless execution of power, precision, and passion.",
-    "thumbnail": "https://placehold.co/800x600/23272a/fff?text=3+Thoka",
+    "thumbnail": "/images/gallery/gallery-12.jpeg",
     "videoId": "/videos/3-thoka.mp4"
   }
 ]
