@@ -86,7 +86,8 @@ const Home = () => {
             <div className="featured-card fade-up delay-200 visible">
               <div className="featured-image-wrapper">
                 <video 
-                  src={featuredPerformance.videoId} 
+                  src={`${featuredPerformance.videoId}#t=0.001`}
+                  poster={featuredPerformance.thumbnail}
                   muted 
                   playsInline 
                   preload="metadata"
